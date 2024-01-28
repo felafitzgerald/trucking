@@ -1,2 +1,2 @@
 # trucking
-Appa for trucking
+Apps for trucking
